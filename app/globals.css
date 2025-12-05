@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-
 @theme {
-  --color-primary-orange: #EC7000;
+    --color-primary-orange: #ec7000;
+    --image_bg_hero: url("../assets/bg-hero.jpg");
 }
